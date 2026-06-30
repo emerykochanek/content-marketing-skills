@@ -66,11 +66,6 @@ cp -r * ~/.claude/skills/
 | Skill | Command | What it does | Input |
 |---|---|---|---|
 | SEO/SXO | `/seo-sxo` | Reads Google SERPs to detect page-type mismatches, derives user stories from search intent, scores pages from multiple persona perspectives. | Keyword or URL |
-
-### Content (Sedai)
-
-| Skill | Command | What it does | Input |
-|---|---|---|---|
 | AEO Blog | `/sedai-aeo-blog` | Full content review for Sedai blog posts against SEO/GEO/AEO research, keyword clusters, messaging guide, and VOC language. | Draft or URL |
 | Blog Writer | `/sedai-blog-writer` | Writes Sedai blog posts grounded in AEO/GEO/SEO research. | Brief or topic |
 | Content Brief | `/sedai-content-brief` | SEO/GEO/AEO-optimized content briefs for Sedai blog posts. | Topic or keyword |
