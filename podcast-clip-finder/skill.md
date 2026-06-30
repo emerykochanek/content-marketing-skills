@@ -68,6 +68,14 @@ For each clip, specify:
 
 Be surgical. Do not recommend cutting a setup that the punchline depends on.
 
+**Assembled clips are allowed.** If no single clean clip exists but the best material is spread across the transcript, you may propose assembling non-contiguous lines into a single clip — reordering or combining quotes from different timestamps — as long as:
+- Every line is quoted exactly as spoken (no paraphrasing)
+- The assembled clip does not change the meaning of what anyone said
+- The resulting exchange would read as natural to a listener who hasn't heard the full episode
+- Nothing is put in a speaker's mouth that they didn't say
+
+When proposing an assembled clip, list each piece with its timestamp so the editor knows exactly where to pull from. Flag it clearly as an assembled clip in the output.
+
 ### 4. Write Platform Hooks
 
 #### LinkedIn Hook
