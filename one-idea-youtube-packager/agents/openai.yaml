@@ -1,0 +1,15 @@
+interface:
+  display_name: 1 IDEA YouTube Packager
+  short_description: Create clear engineering-focused YouTube titles, thumbnails,
+    descriptions, and chapters for 1 IDEA episodes.
+  icon: 🎬
+  accent_color: '#2563eb'
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
